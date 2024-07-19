@@ -1,4 +1,4 @@
-<h1>Attendance-Tracker</h1>
+<h1>Attendance Tracker</h1>
 
 <h2>Description</h2>
 
