@@ -28,7 +28,15 @@
 <ol>
   <li>
     <h4>Clone the repository:</h4>
-    <code>git clone https://github.com/Melvin-Shalom/Attendance-Tracker.git</code>
+    <code>git clone https://github.com/Melvin-Shalom/Attendance-Tracker.git</code><br>
     <code>cd Attendance-Tracker/</code>
+  </li>
+  <li>
+    <h4>Compile the program:</h4>
+    <code> g++ attM.cpp -o attendance -lncurses</code>
+  </li>
+  <li>
+    <h4>Run the program:</h4>
+    <code>./attendance/</code>
   </li>
 </ol>
