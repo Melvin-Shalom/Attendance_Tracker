@@ -23,3 +23,12 @@
   <li>C++ compiler <strong>(g++ recommended)</strong></li>
   <li>Terminal or command prompt</li>
 </ul>
+
+<h2>How to Compile and Run</h2>
+<ol>
+  <li>
+    <h4>Clone the repository:</h4>
+    <code>git clone https://github.com/Melvin-Shalom/Attendance-Tracker.git</code>
+    <code>cd Attendance-Tracker/</code>
+  </li>
+</ol>
