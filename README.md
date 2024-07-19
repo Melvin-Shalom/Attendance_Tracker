@@ -1,4 +1,4 @@
-<h1>Attendance-Tracker</h1><hr>
+<h1>Attendance-Tracker</h1>
 
 <h2>Description</h2>
 
@@ -10,8 +10,8 @@
   <li><strong>Register Student:</strong> Register new students with necessary details.</li>
   <li><strong>Check List of All Students Registered:</strong> View the list of all registered students.</li>
   <li><strong>Get List of Students Registered by Username:</strong> Retrieve student details by username.</li>
-  <li><strong>Delete Student Data:</strong> Delete data of a specific student.</li>
-  <li><strong>Delete All Registered Students:</strong> Remove all student records.</li><br>
+  <li><strong>Delete Student Data:</strong> Delete data of a specific student.</li><br>
+  <li><strong>Delete All Registered Students:</strong> Remove all student records.</li>
   
   <li><strong>Student Login:</strong> Allows students to log in and mark their attendance.</li>
   <li><strong>Mark Attendance:</strong> Students can mark their attendance for the day.</li>
