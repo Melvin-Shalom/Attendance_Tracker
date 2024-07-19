@@ -1,28 +1,25 @@
-# Attendance-Tracker
+<h1>Attendance-Tracker</h1><hr>
 
-## Description
+<h2>Description</h2>
 
-This project is a comprehensive system designed to streamline the management and monitoring of student attendance. It allows administrators to efficiently register students, track their attendance, and manage their data. With features like student login, attendance marking, and data management, it ensures accurate and up-to-date records, making it an essential tool for educational institutions aiming to maintain organized and reliable attendance information.
+<p>This project is a comprehensive system designed to streamline the management and monitoring of student attendance. It allows administrators to efficiently register students, track their attendance, and manage their data. With features like student login, attendance marking, and data management, it ensures accurate and up-to-date records, making it an essential tool for educational institutions aiming to maintain organized and reliable attendance information.</p>
 
-## Features
+<h2>Features</h2>
+<ul>
+  <li><strong></strong> Secure access for administrators to manage student data.</li>
+  <li><strong>Admin Login:</strong> Secure access for administrators to manage student data.</li>
+  <li><strong>Student Login:</strong> Allows students to log in and mark their attendance.</li>
+  <li><strong>Register Student:</strong> Register new students with necessary details.</li>
+  <li><strong>Check List of Students Registered:</strong> View the list of all registered students.</li>
+  <li><strong>Delete All Registered Students:</strong> Remove all student records.</li>
+  <li><strong>Get List of Students Registered by Username:</strong> Retrieve student details by username.</li>
+  <li><strong>Delete Student Data:</strong> Delete data of a specific student.</li>
+  <li><strong>Mark Attendance:</strong> Students can mark their attendance for the day.</li>
+  <li><strong>Count Attendance:</strong> Students can view their total attendance count.</li>
+</ul>
 
-- **Admin Login:** Secure access for administrators to manage student data.
-- **Student Login:** Allows students to log in and mark their attendance.
-- **Register Student:** Register new students with necessary details.
-- **Check List of Students Registered:** View the list of all registered students.
-- **Delete All Registered Students:** Remove all student records.
-- **Get List of Students Registered by Username:** Retrieve student details by username.
-- **Delete Student Data:** Delete data of a specific student.
-- **Mark Attendance:** Students can mark their attendance for the day.
-- **Count Attendance:** Students can view their total attendance count.
-
-## Prerequisites
-
-- C++ compiler (g++ recommended)
-- Terminal or command prompt
-
-## How to Compile and Run
-
-1. **Clone the repository:**
-<code>git clone https://github.com/your-username/attendance-management.git</code>
-<code>cd attendance-management</code>
+<h2>Prerequisites</h2>
+<ul>
+  <li>C++ compiler <strong>(g++ recommended)</strong></li>
+  <li>Terminal or command prompt</li>
+</ul>
