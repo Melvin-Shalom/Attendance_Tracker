@@ -25,7 +25,7 @@
 
 <h2>Requirements</h2>
 <ul>
-	<li>C++ compiler <strong>(g++ recommended)</strong></li>
+	<li>C++ 20</strong></li>
   	<li>Terminal or command prompt</li>
 </ul>
 
