@@ -26,7 +26,7 @@
 <h2>Requirements</h2>
 <ul>
 	<li>C++ 20</strong></li>
-  	<li>Terminal or command prompt</li>
+  	<li>Terminal or Command Prompt</li>
 </ul>
 
 <h2>Step for Execution</h2>
