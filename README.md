@@ -26,19 +26,19 @@
 <h2>Step for Execution</h2>
 <ol>
 	<li>
-		<h4>Clone the repository</h4>
-	    <code>git clone https://github.com/Melvin-Shalom/Attendance-Tracker.git</code><br>
+		<h4>Open the Terminal and Clone the Repository</h4>
+	   	<code>git clone https://github.com/Melvin-Shalom/Attendance-Tracker.git</code><br>
 	</li>
 	<li>
 		<h4>Navigate to the project directory</h4>
-    	<code>cd Attendance-Tracker/</code>
+	    	<code>cd Attendance-Tracker/</code>
 	</li>
 	<li>
-    	<h4>Compile the program:</h4>
-    	<code> g++ attM.cpp -o attendance -lncurses</code>
+    		<h4>Compile the program:</h4>
+    		<code> g++ attM.cpp -o attendance -lncurses</code>
 	</li>
   	<li>
-    	<h4>Run the program:</h4>
-    	<code>./attendance/</code>
+	    	<h4>Run the program:</h4>
+    		<code>./attendance/</code>
   	</li>
 </ol>
