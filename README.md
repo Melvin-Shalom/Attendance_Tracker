@@ -4,6 +4,12 @@
 
 <p>This project is a comprehensive system designed to streamline the management and monitoring of student attendance. It allows administrators to efficiently register students, track their attendance, and manage their data. With features like student login, attendance marking, and data management, it ensures accurate and up-to-date records, making it an essential tool for educational institutions aiming to maintain organized and reliable attendance information.</p>
 
+<h2>Admin Login</h2>
+<p>
+	<strong>Username</strong>: <code>admin</code><br>
+	<strong>Password</strong>: <code>spark</code><br>
+</p>
+
 <h2>Features</h2>
 <ul>
 	<li><strong>Admin Login:</strong> Secure access for administrators to manage student data.</li>
