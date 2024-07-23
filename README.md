@@ -17,7 +17,7 @@
   	<li><strong>Count Attendance:</strong> Students can view their total attendance count.</li>
 </ul>
 
-<h2>Prerequisites</h2>
+<h2>Requirements</h2>
 <ul>
 	<li>C++ compiler <strong>(g++ recommended)</strong></li>
   	<li>Terminal or command prompt</li>
