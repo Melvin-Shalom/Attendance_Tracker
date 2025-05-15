@@ -23,7 +23,7 @@
 	<strong>Password</strong>: <code>spark</code><br>
 </p>
 
-<h2>Systen Requirements</h2>
+<h2>System Requirements</h2>
 <ul>
 	<li>C++ <strong>20</strong></li>
   	<li>Terminal or Command Prompt</li>
