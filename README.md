@@ -10,19 +10,6 @@
 	<strong>Password</strong>: <code>spark</code><br>
 </p>
 
-<h2>Features</h2>
-<ul>
-	<li><strong>Admin Login:</strong> Secure access for administrators to manage student data.</li>
-  	<li><strong>Register Student:</strong> Register new students with necessary details.</li>
-  	<li><strong>Check List of All Students Registered:</strong> View the list of all registered students.</li>
-  	<li><strong>Get List of Students Registered by Username:</strong> Retrieve student details by username.</li>
-  	<li><strong>Delete Student Data:</strong> Delete data of a specific student.</li>
-  	<li><strong>Delete All Registered Students:</strong> Remove all student records.</li><br>
-  	<li><strong>Student Login:</strong> Allows students to log in and mark their attendance.</li>
- 	<li><strong>Mark Attendance:</strong> Students can mark their attendance for the day.</li>
-  	<li><strong>Count Attendance:</strong> Students can view their total attendance count.</li>
-</ul>
-
 <h2>Requirements</h2>
 <ul>
 	<li>C++ 20</strong></li>
@@ -37,14 +24,27 @@
 	</li>
 	<li>
 		<h4>Navigate to the project directory</h4>
-	    	<code>cd Attendance-Tracker/</code>
+	    	<code>cd Attendance_Tracker/</code>
 	</li>
 	<li>
     		<h4>Compile the program:</h4>
-    		<code> g++ attM.cpp -o attendance -lncurses</code>
+    		<code>g++ attM.cpp -o attendance</code>
 	</li>
   	<li>
 	    	<h4>Run the program:</h4>
     		<code>./attendance/</code>
   	</li>
 </ol>
+
+<h2>Features</h2>
+<ul>
+	<li><strong>Admin Login:</strong> Secure access for administrators to manage student data.</li>
+  	<li><strong>Register Student:</strong> Register new students with necessary details.</li>
+  	<li><strong>Check List of All Students Registered:</strong> View the list of all registered students.</li>
+  	<li><strong>Get List of Students Registered by Username:</strong> Retrieve student details by username.</li>
+  	<li><strong>Delete Student Data:</strong> Delete data of a specific student.</li>
+  	<li><strong>Delete All Registered Students:</strong> Remove all student records.</li><br>
+  	<li><strong>Student Login:</strong> Allows students to log in and mark their attendance.</li>
+ 	<li><strong>Mark Attendance:</strong> Students can mark their attendance for the day.</li>
+  	<li><strong>Count Attendance:</strong> Students can view their total attendance count.</li>
+</ul>
