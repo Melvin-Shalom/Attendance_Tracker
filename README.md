@@ -17,7 +17,7 @@
   	<li><strong>Count Attendance:</strong> Students can view their total attendance count.</li>
 </ul>
 
-<h2>Admin Login</h2>
+<h2>Admin Credentials</h2>
 <p>
 	<strong>Username</strong>: <code>admin</code><br>
 	<strong>Password</strong>: <code>spark</code><br>
